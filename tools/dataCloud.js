@@ -4,7 +4,7 @@ import { writeFile } from 'node:fs/promises';
 cloudinary.config({
     cloud_name: 'dihujgmwe',
     api_key: 'add_your_API',
-    api_secret: 'AAiNIJLLUg_eJomcLARk6yYP_eg',
+    api_secret: 'add_your_secret',
 });
 
 async function main() {
